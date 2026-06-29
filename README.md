@@ -10,6 +10,7 @@ This dashboard helps track overall business performance by providing a clear vie
 
 ---
 <img width="1153" height="538" alt="image" src="https://github.com/user-attachments/assets/ed81d083-1751-401b-80e0-3b98b646d7eb" />
+
 ---
 
 ### Key Features
