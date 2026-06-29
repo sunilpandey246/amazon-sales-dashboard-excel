@@ -8,35 +8,26 @@ This dashboard helps track overall business performance by providing a clear vie
 
 ### Key Features
 
-Interactive Slicers (Year, Month, Sales Type, Payment Mode)
-
 KPI Cards (Total Sales, Total Profit, Profit %)
 
+Interactive Slicers (Year, Month, Sales Type, Payment Mode)
+
 Monthly Sales Trend Analysis
-
-Daily Sales Performance
-
-Product-wise Sales Comparison
-
-Sales Type Distribution
-
-Payment Mode Analysis
 
 Category-wise Performance (Treemap)
 
 Top Product & Top Category Highlights
 
-Clean and user-friendly dashboard design
 
 ### Tools & Skills Used
 
-Microsoft Excel,
-Pivot Tables,
-Pivot Charts,
-Slicers,
-Conditional Formatting,
-Excel Formulas,
-Dashboard Design,
+Microsoft Excel /
+Pivot Tables /
+Pivot Charts /
+Slicers /
+Conditional Formatting /
+Excel Formulas /
+Dashboard Design /
 Data Visualization
 
 
@@ -53,4 +44,6 @@ Profit Margin: 12%
 This dashboard enables business users to monitor sales performance, identify top-performing products and categories, analyze customer payment preferences, and make data-driven decisions through interactive reporting.
 
 <img width="1153" height="538" alt="image" src="https://github.com/user-attachments/assets/ed81d083-1751-401b-80e0-3b98b646d7eb" />
+
+---
 
