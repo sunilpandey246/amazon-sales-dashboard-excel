@@ -9,32 +9,43 @@ This dashboard helps track overall business performance by providing a clear vie
 ### Key Features
 
 Interactive Slicers (Year, Month, Sales Type, Payment Mode)
+
 KPI Cards (Total Sales, Total Profit, Profit %)
+
 Monthly Sales Trend Analysis
+
 Daily Sales Performance
+
 Product-wise Sales Comparison
+
 Sales Type Distribution
+
 Payment Mode Analysis
+
 Category-wise Performance (Treemap)
+
 Top Product & Top Category Highlights
+
 Clean and user-friendly dashboard design
 
 ### Tools & Skills Used
 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-Excel Formulas
-Dashboard Design
+Microsoft Excel,
+Pivot Tables,
+Pivot Charts,
+Slicers,
+Conditional Formatting,
+Excel Formulas,
+Dashboard Design,
 Data Visualization
 
 
 ### Key KPIs
 
 Total Sales: $601,495
+
 Total Profit: $65,780
+
 Profit Margin: 12%
 
 ### Business Value
