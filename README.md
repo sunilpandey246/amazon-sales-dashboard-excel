@@ -43,6 +43,8 @@ Profit Margin: 12%
 
 This dashboard enables business users to monitor sales performance, identify top-performing products and categories, analyze customer payment preferences, and make data-driven decisions through interactive reporting.
 
+---
+
 <img width="1153" height="538" alt="image" src="https://github.com/user-attachments/assets/ed81d083-1751-401b-80e0-3b98b646d7eb" />
 
 ---
